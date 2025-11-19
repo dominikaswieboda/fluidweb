@@ -215,7 +215,7 @@ export default function App() {
                 </div>
                 <div>
                   <div className="text-gray-400 text-sm mb-2">Email</div>
-                  <div className="text-xl">kontakt@fluidweb.pl</div>
+                  <div className="text-xl">dominika_swieboda@outlook.com</div>
                 </div>
               </motion.a>
             </div>
